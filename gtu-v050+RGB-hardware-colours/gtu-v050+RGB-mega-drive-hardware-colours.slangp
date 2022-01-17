@@ -1,0 +1,2 @@
+#reference "gtu-v050+RGB-hardware-colours.slangp"
+TVOUT_RESOLUTION = "320.000000"
