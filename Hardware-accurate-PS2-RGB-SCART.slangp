@@ -1,0 +1,3 @@
+#reference "shaders_slang/crt/gtu-v050.slangp"
+signalResolution = "640.000000"
+tvVerticalResolution = "480.000000"
