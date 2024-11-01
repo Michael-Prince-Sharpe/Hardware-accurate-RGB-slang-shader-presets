@@ -1,1 +1,2 @@
 #reference "shaders_slang/crt/gtu-v050.slangp"
+blackLevel = "0.000000"

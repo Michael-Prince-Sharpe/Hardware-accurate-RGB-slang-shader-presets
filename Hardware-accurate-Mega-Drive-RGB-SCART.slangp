@@ -1,2 +1,3 @@
 #reference "shaders_slang/crt/gtu-v050.slangp"
 signalResolution = "320.000000"
+blackLevel = "0.000000"
